@@ -33,35 +33,83 @@ assets:
   - {seq: 5, role: markers, filename: assets/KR4e0217_005-WYG.markers.yaml, hash: 'sha256:252fcac231d1855dd35d0a46881bce069a73b6987b9c17affee53790ae404b67'}
   - {seq: 6, role: markers, filename: assets/KR4e0217_006-WYG.markers.yaml, hash: 'sha256:e9d29d25d46f1533a26a74228ceb19a813fd1365c9821f2c6ecf0bbd5aee3b9f'}
 table_of_contents:
-- ref: {seq: 0, marker_id: KR4e0217_WYG_000-1a, span: [body, 0, 375]}
+- ref:
+    seq: 0
+    marker_id: KR4e0217_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 375
   label: 目録
   type: section
   level: 1
-- ref: {seq: 0, marker_id: KR4e0217_WYG_000-5a, span: [body, 375, 737]}
+- ref:
+    seq: 0
+    marker_id: KR4e0217_WYG_000-5a
+    span:
+    - body
+    - 375
+    - 737
   label: 自序
   type: section
   level: 1
-- ref: {seq: 1, marker_id: KR4e0217_WYG_001-1a, span: [body, 0, 16010]}
+- ref:
+    seq: 1
+    marker_id: KR4e0217_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 16010
   label: 卷一
   type: section
   level: 1
-- ref: {seq: 2, marker_id: KR4e0217_WYG_002-1a, span: [body, 0, 15738]}
+- ref:
+    seq: 2
+    marker_id: KR4e0217_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 15738
   label: 卷二
   type: section
   level: 1
-- ref: {seq: 3, marker_id: KR4e0217_WYG_003-1a, span: [body, 0, 19419]}
+- ref:
+    seq: 3
+    marker_id: KR4e0217_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 19419
   label: 卷三
   type: section
   level: 1
-- ref: {seq: 4, marker_id: KR4e0217_WYG_004-1a, span: [body, 0, 15225]}
+- ref:
+    seq: 4
+    marker_id: KR4e0217_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 15225
   label: 卷四
   type: section
   level: 1
-- ref: {seq: 5, marker_id: KR4e0217_WYG_005-1a, span: [body, 0, 10316]}
+- ref:
+    seq: 5
+    marker_id: KR4e0217_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 10316
   label: 卷五
   type: section
   level: 1
-- ref: {seq: 6, marker_id: KR4e0217_WYG_006-1a, span: [body, 0, 631]}
+- ref:
+    seq: 6
+    marker_id: KR4e0217_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 631
   label: 重刻蠛蠓集引
   type: section
   level: 1
